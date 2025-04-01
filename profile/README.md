@@ -9,4 +9,4 @@
  <a href="https://corecrab.gitbook.io/docs">Docs</a> ·
  <a href="https://corecrab.com/projects">Projects</a>
 
-    readme credits: Zen Browser Github
+<p align="center">  ʀᴇᴀᴅᴍᴇ ᴄʀᴇᴅɪᴛѕ: ᴢᴇɴ ʙʀᴏᴡѕᴇʀ ɢɪᴛʜᴜʙ
